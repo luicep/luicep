@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=200&section=header&text=Luis%20Cepeda&fontSize=80&fontColor=00FF41&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20IT%20Support&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:caae7b,100:0D1117&amp;height=130&amp;section=header&amp;text=Luis%20Cepeda&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=34&amp;desc=Cybersecurity%20Analyst%20%7C%20IT%20Support&amp;descAlignY=72&amp;descAlign=50&amp;descSize=17&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=Cybersecurity+Analyst+%7C+IT+Support;SOC+Monitoring+%7C+Threat+Detection+%7C+Incident+Response;Splunk+%7C+Wireshark+%7C+Endpoint+Investigations;Turning+investigations+into+stronger+security+decisions;%24+whoami+%E2%86%92+Luis+Cepeda)](https://github.com/luicep)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=f5d88b&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=SOC+Triage+%7C+Windows+Auth+Analysis+%7C+Endpoint+Investigation;M365%2FEntra+%7C+Splunk+%7C+Wireshark+%7C+PowerShell" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=luicep&color=00FF41&style=flat-square&label=👁️+Profile+Views)](https://github.com/luicep)
-[![GitHub followers](https://img.shields.io/github/followers/luicep?label=Followers&style=flat-square&color=00FF41&labelColor=0D1117)](https://github.com/luicep?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/luicep?label=Total%20Stars&style=flat-square&color=00FF41&labelColor=0D1117)](https://github.com/luicep)
+[![Profile Views](https://komarev.com/ghpvc/?username=luicep&color=caae7b&style=flat-square&label=Profile+Views)](https://github.com/luicep)
+[![GitHub followers](https://img.shields.io/github/followers/luicep?label=Followers&style=flat-square&color=caae7b&labelColor=0D1117)](https://github.com/luicep?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/luicep?label=Total%20Stars&style=flat-square&color=caae7b&labelColor=0D1117)](https://github.com/luicep)
 
 </div>
 
----
 
 ## 🖥️ `analyst_profile`
 
@@ -155,26 +154,20 @@ $ cat current_focus.txt
     - ticket-ready output
 ```
 
----
+
+<div align="center">
+
+### *"Turning investigations into stronger security decisions."*
+
+</div>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luicep)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/luis-cepeda1/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:Luiscepeda44@hotmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-### 💚 *"Turning investigations into stronger security decisions."*
-
-⭐ **Follow along as I build hands-on SOC, IT, and cybersecurity projects.**
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=caae7b)](https://github.com/luicep)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=caae7b)](https://www.linkedin.com/in/luis-cepeda1/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=caae7b)](mailto:Luiscepeda44@hotmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:caae7b,100:0D1117&height=95&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
