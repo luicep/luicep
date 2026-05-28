@@ -19,34 +19,46 @@
 
 ```typescript
 const luisCepeda = {
-  role: "Cybersecurity Analyst | IT Support",
-  training: "Per Scholas Cybersecurity Apprenticeship | Apr 2026 - Present",
+  path: "SOC Analyst | IAM | IT Support",
 
-  focus: ["Authentication triage", "Endpoint/network investigation", "M365/Entra lifecycle"],
+    training:
+      "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | Apr 12, 2026 - Present",
 
-  building: [
-    "Splunk authentication cases",
-    "Wireshark PCAP investigations",
-    "Sysinternals endpoint triage",
-    "PowerShell support automation",
+        focus: [
+          "SIEM authentication triage",
+            "Microsoft identity investigation",
+              "Endpoint and device support",
+                "Incident triage",
+                 ],
+
+                    building: [
+                      "Windows authentication triage in SIEM",
+                        "Entra sign-in investigation",
+                          "Endpoint triage with Sysinternals and Sysmon",
+                            "M365 user lifecycle and access review",
+                          "Intune compliance troubleshooting",
+                        "Phishing message trace",
+                    ],
+
+                  certifications: {
+                inProgress: [
+              "CompTIA CySA+",
+            "CompTIA Security+",
+          ],
+
+        obtained: [
+      "Google Cybersecurity Professional Certificate",
+    "Google IT Support Professional Certificate",
   ],
+},
+ edge:
+      "340+ hours of cybersecurity training, labs, and project work focused on SOC, IAM, and IT support readiness.",
 
-  certs: {
-    inProgress: ["CompTIA CySA+", "CompTIA Security+", "Splunk Core Certified User", "Microsoft AZ-900"],
-    obtained: ["Google Cybersecurity", "Google IT Support"],
-  },
-
-  edge: "Investigation-first mindset applied to IT support and SOC workflows.",
   openToWork: true,
 };
 ```
 
-</td>
-</tr>
-</table>
-
 </div>
-
 ---
 
 ## 🛠️ Technical Skills
