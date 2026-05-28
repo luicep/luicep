@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="Portfolio Build Activity">
+  <rect width="100%" height="100%" rx="10" fill="#0D1117"/>
+  <text x="550" y="90" text-anchor="middle" fill="#caae7b" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Portfolio Build Activity</text>
+  <text x="550" y="130" text-anchor="middle" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="14">Waiting for GitHub Actions token to generate contribution data.</text>
+</svg>
