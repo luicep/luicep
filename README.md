@@ -88,7 +88,7 @@ const luisCepeda = {
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🔎 [**Windows Authentication Triage in SIEM**](https://github.com/luicep/windows-authentication-triage-siem) | Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL. | Complete |
+| 🔎 [**Windows Authentication Triage in SIEM**]([https://github.com/luicep/windows-authentication-triage-siem](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)) | Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL. | Complete |
 | 🛡️ [**Entra Sign-In & Conditional Access Investigation**](https://github.com/luicep/entra-signin-conditional-access-investigation) | Reviews Entra sign-in logs, Conditional Access results, MFA context, user/device evidence, and audit logs to determine whether identity activity should be closed, remediated, or escalated. | Planned |
 | 🖥️ [**Endpoint Triage with Sysinternals & Sysmon**](https://github.com/luicep/endpoint-triage-sysinternals-sysmon) | Analyzes process behavior, parent-child relationships, autoruns, startup entries, suspicious paths, Sysmon telemetry, persistence indicators, and remediation notes. | Building |
 | 👤 [**Microsoft 365 User Lifecycle & Access Review**](https://github.com/luicep/m365-user-lifecycle-access-review) | Documents onboarding, licensing, group membership, password reset, offboarding, access review, audit evidence, and ticket-ready IAM notes. | Planned |
