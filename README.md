@@ -35,7 +35,7 @@ const luisCepeda = {
                             "M365 user lifecycle and access review",
                           "Intune compliance troubleshooting",
                         "Phishing message trace",
-                    ],
+                       ],
 
                   certifications: {
                 inProgress: [
