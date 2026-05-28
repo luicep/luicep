@@ -1,26 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:caae7b,100:0D1117&amp;height=130&amp;section=header&amp;text=Luis%20Cepeda&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=34&amp;desc=Cybersecurity%20Analyst%20%7C%20IT%20Support&amp;descAlignY=72&amp;descAlign=50&amp;descSize=17&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:caae7b,100:0D1117&height=130&section=header&text=Luis%20Cepeda&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=SOC%20Analyst%20%7C%20IAM%20%7C%20IT%20Support&descAlignY=72&descAlign=50&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=f5d88b&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=SOC+Triage+%7C+Windows+Auth+Analysis+%7C+Endpoint+Investigation;M365%2FEntra+%7C+Splunk+%7C+Wireshark+%7C+PowerShell" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=900&color=f5d88b&center=true&vCenter=true&width=850&lines=SOC+Triage+%7C+Windows+Auth+Analysis+%7C+Endpoint+Investigation;M365%2FEntra+%7C+IAM+%7C+Intune+%7C+Splunk" alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=luicep&color=caae7b&style=flat-square&label=Profile+Views)](https://github.com/luicep)
 [![GitHub followers](https://img.shields.io/github/followers/luicep?label=Followers&style=flat-square&color=caae7b&labelColor=0D1117)](https://github.com/luicep?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/luicep?label=Total%20Stars&style=flat-square&color=caae7b&labelColor=0D1117)](https://github.com/luicep)
+[![Repositories](https://img.shields.io/badge/Repositories-View_All-0D1117?style=flat-square&logo=github&logoColor=caae7b&labelColor=0D1117&color=caae7b)](https://github.com/luicep?tab=repositories)
 
 </div>
-
 
 ## 🖥️ `analyst_profile`
 
 ```typescript
 const luisCepeda = {
-  path: "SOC Analyst | IAM | IT Support",
-
     training:
       "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | Apr 12, 2026 - Present",
 
