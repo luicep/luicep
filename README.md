@@ -55,9 +55,6 @@ const luisCepeda = {
 };
 ```
 
-</div>
-
-
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -117,11 +114,11 @@ const luisCepeda = {
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Portfolio Build Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luicep&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=ffffff&line=d1c0a1&point=F8F9FA&area_color=d1c0a1&title_color=d1c0a1)
+<img src="./assets/portfolio-build-activity.svg" width="100%" alt="Portfolio Build Activity Graph"/>
 
 </div>
 
