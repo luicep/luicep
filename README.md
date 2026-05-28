@@ -56,7 +56,7 @@ const luisCepeda = {
 ```
 
 </div>
----
+
 
 ## 🛠️ Technical Skills
 
@@ -92,16 +92,16 @@ const luisCepeda = {
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🔎 [**Windows Authentication Triage in Splunk**](PLACEHOLDER (Splunk authentication triage project link)) | Investigates failed logons, account lockouts, source patterns, and brute-force indicators using Windows Event Logs and SPL. | Building |
-| 👤 [**Microsoft 365 / Entra User Lifecycle Lab**](PLACEHOLDER (M365 Entra user lifecycle project link)) | Documents onboarding, licensing, group assignment, password reset, offboarding, access review, and ticket-ready notes. | Planned |
-| 💻 [**Intune Device Enrollment & Lifecycle Lab**](PLACEHOLDER (Intune device lifecycle project link)) | Tracks device enrollment, user-device assignment, compliance state, troubleshooting evidence, and endpoint lifecycle actions. | Planned |
-| 🌐 [**Wireshark DNS/HTTP/S Investigation**](PLACEHOLDER (Wireshark DNS HTTPS investigation project link)) | Analyzes PCAP evidence using filters, timelines, conversations, request/response behavior, and suspicious-domain review. | Building |
-| 🖥️ [**Sysinternals Endpoint Triage Case**](PLACEHOLDER (Sysinternals endpoint triage project link)) | Reviews process behavior, autoruns, startup entries, persistence indicators, and remediation notes using Microsoft Sysinternals. | Building |
-| ⚙️ [**PowerShell Support Automation Toolkit**](PLACEHOLDER (PowerShell support automation toolkit link)) | Builds reusable scripts for event-log review, system info collection, network checks, patch visibility, and ticket escalation output. | Planned |
+| 🔎 [**Windows Authentication Triage in SIEM**](https://github.com/luicep/windows-authentication-triage-siem) | Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL. | Building |
+| 🛡️ [**Entra Sign-In & Conditional Access Investigation**](https://github.com/luicep/entra-signin-conditional-access-investigation) | Reviews Entra sign-in logs, Conditional Access results, MFA context, user/device evidence, and audit logs to determine whether identity activity should be closed, remediated, or escalated. | Planned |
+| 🖥️ [**Endpoint Triage with Sysinternals & Sysmon**](https://github.com/luicep/endpoint-triage-sysinternals-sysmon) | Analyzes process behavior, parent-child relationships, autoruns, startup entries, suspicious paths, Sysmon telemetry, persistence indicators, and remediation notes. | Building |
+| 👤 [**Microsoft 365 User Lifecycle & Access Review**](https://github.com/luicep/m365-user-lifecycle-access-review) | Documents onboarding, licensing, group membership, password reset, offboarding, access review, audit evidence, and ticket-ready IAM notes. | Planned |
+| 💻 [**Intune Enrollment & Compliance Troubleshooting**](https://github.com/luicep/intune-device-enrollment-compliance) | Tracks Windows device enrollment, user-device assignment, compliance state, join status, troubleshooting evidence, root cause, and remediation validation. | Planned |
+| 📧 [**Phishing Mailbox Triage & Message Trace**](https://github.com/luicep/m365-phishing-mailbox-triage) | Investigates suspicious email reports using message trace, email headers, SPF/DKIM/DMARC results, sender review, recipient scope, and final analyst disposition. | Planned |
 
 </div>
 
-> 💡 *Portfolio priority: build proof around SIEM triage, Microsoft identity, endpoint lifecycle, packet analysis, endpoint investigation, automation, and clear documentation.*
+> 💡 *Portfolio priority: prove day-one readiness through SIEM triage, Microsoft identity investigation, endpoint evidence, device compliance, phishing analysis, IAM workflows, and ticket-ready documentation.*
 
 [![View All Repositories](https://img.shields.io/badge/🗂️_View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luicep?tab=repositories)
 
@@ -132,35 +132,41 @@ const luisCepeda = {
 ```bash
 $ cat current_focus.txt
 
-[1] Splunk authentication triage
+[1] SIEM authentication triage
     - Windows Event ID 4625 / 4740
-    - failed logon patterns
-    - account lockout review
-    - SPL timeline and detection logic
+    - failed logon and account lockout review
+    - source IP, workstation, user, and logon type analysis
+    - SPL timelines, detection logic, and escalation notes
 
-[2] Microsoft 365 / Entra user lifecycle
-    - onboarding and offboarding
-    - license and group assignment
-    - password reset workflow
-    - access documentation
+[2] Microsoft identity investigation
+    - Entra sign-in log review
+    - Conditional Access results
+    - MFA and authentication context
+    - user, device, location, app, and audit-log pivots
 
-[3] Endpoint and device operations
-    - Intune device enrollment
-    - endpoint troubleshooting
+[3] Endpoint investigation
     - Sysinternals process review
-    - persistence and startup analysis
+    - Sysmon telemetry
+    - parent-child process analysis
+    - autoruns, startup entries, and persistence indicators
 
-[4] Network investigation
-    - Wireshark DNS / HTTP/S analysis
-    - PCAP filtering
-    - suspicious domain review
-    - traffic timeline documentation
+[4] IAM and Microsoft 365 operations
+    - onboarding and offboarding workflows
+    - license and group assignment
+    - password reset and access review
+    - audit evidence and ticket-ready documentation
 
-[5] PowerShell support automation
-    - Get-WinEvent queries
-    - system and network checks
-    - reusable support scripts
-    - ticket-ready output
+[5] Intune endpoint support
+    - Windows device enrollment
+    - user-device assignment
+    - compliance state troubleshooting
+    - join status, root cause, and remediation validation
+
+[6] Threat detection and email triage
+    - message trace review
+    - email header analysis
+    - SPF, DKIM, and DMARC validation
+    - recipient scope, final disposition, and user communication
 ```
 
 
