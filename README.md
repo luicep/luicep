@@ -49,7 +49,7 @@ const luisCepeda = {
   ],
 },
  edge:
-      "340+ hours of cybersecurity training, labs, and project work focused on SOC, IAM, and IT support readiness.",
+      edge: 340+ hours of cybersecurity training, labs, and project work focused on SOC, IAM, and IT support readiness,
 
   openToWork: true,
 };
