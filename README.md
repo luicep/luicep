@@ -14,7 +14,7 @@
 
 </div>
 
-## 🖥️ `analyst_profile`
+## 🧠 `control_panel`
 
 ```typescript
 const luisCepeda = {
