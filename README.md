@@ -19,7 +19,7 @@
 ```typescript
 const luisCepeda = {
     training:
-      "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | Apr 12, 2026 - Present",
+      "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | April, 2026 - Present",
 
         focus: [
           "SIEM authentication triage",
