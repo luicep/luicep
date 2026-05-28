@@ -4,8 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=900&color=f5d88b&center=true&vCenter=true&width=850&lines=SOC+Triage+%7C+Windows+Auth+Analysis+%7C+Endpoint+Investigation;M365%2FEntra+%7C+IAM+%7C+Intune+%7C+Splunk" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=900&color=f5d88b&center=true&vCenter=true&width=900&lines=SIEM+%7C+Authentication+Triage+%7C+Endpoint+Investigation;Identity+Operations+%7C+Endpoint+Operations+%7C+Threat+Investigation" alt="Typing SVG" />
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=luicep&color=caae7b&style=flat-square&label=Profile+Views)](https://github.com/luicep)
