@@ -101,28 +101,6 @@ const luisCepeda = {
 
 [![View All Repositories](https://img.shields.io/badge/🗂️_View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luicep?tab=repositories)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=luicep&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41)
-
-</div>
-
----
-
-## 📈 Portfolio Build Activity
-
-<div align="center">
-
-<img src="./assets/portfolio-build-activity.svg" width="100%" alt="Portfolio Build Activity Graph"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```bash
