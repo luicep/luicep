@@ -26,16 +26,6 @@ const luisCepeda = {
               "Endpoint and device support",
                 "Incident triage",
                  ],
-
-                    building: [
-                      "Windows authentication triage in SIEM",
-                        "Entra sign-in investigation",
-                          "Endpoint triage with Sysinternals and Sysmon",
-                            "M365 user lifecycle and access review",
-                          "Intune compliance troubleshooting",
-                        "Phishing message trace",
-                       ],
-
                   certifications: {
                 inProgress: [
               "CompTIA CySA+",
