@@ -17,27 +17,27 @@
 
 ```typescript
 const luisCepeda = {
-    training:
+    TRAINING:
       "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | April, 2026 - Present",
 
-        focus: [
+        FOCUS: [
           "SIEM authentication triage",
             "Microsoft identity investigation",
               "Endpoint and device support",
                 "Incident triage",
                  ],
-                  certifications: {
-                inProgress: [
+                  CERTIFICATIONS: {
+                in Progress: [
               "CompTIA CySA+",
             "CompTIA Security+",
           ],
 
-        obtained: [
+        OBTAINED: [
       "Google Cybersecurity Professional Certificate",
     "Google IT Support Professional Certificate",
   ],
 },
- edge:
+ EDGE:
       edge: 340+ hours of cybersecurity training, labs, and project work focused on SOC, IAM, and IT support readiness,
 
   openToWork: true,
