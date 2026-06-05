@@ -79,11 +79,11 @@ const luisCepeda = {
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🔎 [**Windows Authentication Triage in SIEM**](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM) | Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL. | Complete |
-| 🛡️ [**Entra Sign-In & Conditional Access Investigation**](https://github.com/luicep/entra-signin-conditional-access-investigation) | Reviews Entra sign-in logs, Conditional Access results, MFA context, user/device evidence, and audit logs to determine whether identity activity should be closed, remediated, or escalated. | Planned |
+| 🛡️ [**Entra Sign-In & Conditional Access Investigation**](https://github.com/luicep/entra-signin-conditional-access-investigation) | Reviews Entra sign-in logs, Conditional Access results, MFA context, user/device evidence, and audit logs to determine whether identity activity should be closed, remediated, or escalated. | Building |
 | 🖥️ [**Endpoint Triage with Sysinternals & Sysmon**](https://github.com/luicep/endpoint-triage-sysinternals-sysmon) | Analyzes process behavior, parent-child relationships, autoruns, startup entries, suspicious paths, Sysmon telemetry, persistence indicators, and remediation notes. | Building |
-| 👤 [**Microsoft 365 User Lifecycle & Access Review**](https://github.com/luicep/m365-user-lifecycle-access-review) | Documents onboarding, licensing, group membership, password reset, offboarding, access review, audit evidence, and ticket-ready IAM notes. | Planned |
-| 💻 [**Intune Enrollment & Compliance Troubleshooting**](https://github.com/luicep/intune-device-enrollment-compliance) | Tracks Windows device enrollment, user-device assignment, compliance state, join status, troubleshooting evidence, root cause, and remediation validation. | Planned |
-| 📧 [**Phishing Mailbox Triage & Message Trace**](https://github.com/luicep/m365-phishing-mailbox-triage) | Investigates suspicious email reports using message trace, email headers, SPF/DKIM/DMARC results, sender review, recipient scope, and final analyst disposition. | Planned |
+| 👤 [**Microsoft 365 User Lifecycle & Access Review**](https://github.com/luicep/m365-user-lifecycle-access-review) | Documents onboarding, licensing, group membership, password reset, offboarding, access review, audit evidence, and ticket-ready IAM notes. | Building |
+| 💻 [**Intune Enrollment & Compliance Troubleshooting**](https://github.com/luicep/intune-device-enrollment-compliance) | Tracks Windows device enrollment, user-device assignment, compliance state, join status, troubleshooting evidence, root cause, and remediation validation. |Building |
+| 📧 [**Phishing Mailbox Triage & Message Trace**](https://github.com/luicep/m365-phishing-mailbox-triage) | Investigates suspicious email reports using message trace, email headers, SPF/DKIM/DMARC results, sender review, recipient scope, and final analyst disposition. | Building |
 
 </div>
 
