@@ -140,7 +140,7 @@ $ cat current_focus.txt
 
 </div>
 
-## 🤝 Connect With Me
+## 🤝 Connect &  interact With Me
 
 <div align="center">
 
