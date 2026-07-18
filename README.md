@@ -48,7 +48,7 @@ const luisCepeda = {
 <div align="center">
 
 ![Splunk Auth Triage](https://img.shields.io/badge/Splunk_Auth_Triage-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
-![Windows Event viewer](https://img.shields.io/badge/Windows_Event_-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Event viewer](https://img.shields.io/badge/Windows_Event_viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Account Lockout Review](https://img.shields.io/badge/Account_Lockout_Review-0D1117?style=for-the-badge&logo=microsoft&logoColor=00FF41)
 ![SPL Detection Logic](https://img.shields.io/badge/SPL_Detection_Logic-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
 
