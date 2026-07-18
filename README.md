@@ -31,7 +31,7 @@ const luisCepeda = {
             "CompTIA Security+",
           ],  
         OBTAINED: [
-       "CompTIA CySA+ce ",
+       "CompTIA CySA+ce",
       "Google Cybersecurity Professional Certificate",
     "Google IT Support Professional Certificate",
   ],
