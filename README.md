@@ -27,12 +27,11 @@ const luisCepeda = {
                 "Incident triage",
                  ],
                   CERTIFICATIONS: {
-                in Progress: [
-              "CompTIA CySA+",
+                in Progress: [     
             "CompTIA Security+",
-          ],
-
+          ],  
         OBTAINED: [
+       "CompTIA CySA+ce ",
       "Google Cybersecurity Professional Certificate",
     "Google IT Support Professional Certificate",
   ],
