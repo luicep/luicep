@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:caae7b,100:0D1117&height=130&section=header&text=Luis%20Cepeda&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=SOC%20Analyst%20%7C%20IAM%20%7C%20IT%20Support&descAlignY=72&descAlign=50&descSize=17&animation=fadeIn" width="100%"/>
 
@@ -73,63 +73,114 @@ const luisCepeda = {
 
 ## 🏆 Featured Projects
 
+### 🌟 Flagship Project
+
 <div align="center">
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🔎 [**Windows Authentication Triage in SIEM**](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM) | Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL. | Complete |
-| 🛡️ [**Entra Sign-In & Conditional Access Investigation**](https://github.com/luicep/entra-signin-conditional-access-investigation) | Reviews Entra sign-in logs, Conditional Access results, MFA context, user/device evidence, and audit logs to determine whether identity activity should be closed, remediated, or escalated. | Building |
-| 🖥️ [**Endpoint Triage with Sysinternals & Sysmon**](https://github.com/luicep/endpoint-triage-sysinternals-sysmon) | Analyzes process behavior, parent-child relationships, autoruns, startup entries, suspicious paths, Sysmon telemetry, persistence indicators, and remediation notes. | Building |
-| 👤 [**Microsoft 365 User Lifecycle & Access Review**](https://github.com/luicep/m365-user-lifecycle-access-review) | Documents onboarding, licensing, group membership, password reset, offboarding, access review, audit evidence, and ticket-ready IAM notes. | Building |
-| 💻 [**Intune Enrollment & Compliance Troubleshooting**](https://github.com/luicep/intune-device-enrollment-compliance) | Tracks Windows device enrollment, user-device assignment, compliance state, join status, troubleshooting evidence, root cause, and remediation validation. |Building |
-| 📧 [**Phishing Mailbox Triage & Message Trace**](https://github.com/luicep/m365-phishing-mailbox-triage) | Investigates suspicious email reports using message trace, email headers, SPF/DKIM/DMARC results, sender review, recipient scope, and final analyst disposition. | Building |
+<a href="https://github.com/luicep/kioptrix4">
+  <img
+    src="https://raw.githubusercontent.com/luicep/kioptrix4/main/assets/previews/01-cover.png"
+    alt="Kioptrix 4 Vulnerability Assessment"
+    width="95%"
+  >
+</a>
+
+### [Kioptrix 4 Vulnerability Assessment](https://github.com/luicep/kioptrix4)
+
+**Authorized isolated-lab assessment documenting a verified attack path from network discovery to effective Linux root access.**
+
+[![View Presentation](https://img.shields.io/badge/View_Assessment-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf)
+[![Verify Evidence](https://img.shields.io/badge/Verify_Evidence-E01--E13-0D1117?style=for-the-badge&logo=github&logoColor=caae7b)](https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md)
+[![Review Findings](https://img.shields.io/badge/Review_Findings-K4--001_%7C_K4--002-0D1117?style=for-the-badge&logo=markdown&logoColor=caae7b)](https://github.com/luicep/kioptrix4/tree/main/findings)
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Complete-238636?style=flat-square)
+![Critical Findings](https://img.shields.io/badge/Critical_Findings-2-d93025?style=flat-square)
+![Evidence](https://img.shields.io/badge/Evidence-E01--E13-0b2b4c?style=flat-square)
+![Final Impact](https://img.shields.io/badge/Final_Impact-Effective_Root-d93025?style=flat-square)
 
 </div>
 
-> 💡 *Portfolio priority: prove day-one readiness through SIEM triage, Microsoft identity investigation, endpoint evidence, device compliance, phishing analysis, IAM workflows, and ticket-ready documentation.*
+#### Verified Assessment Chain
+
+```text
+Network Discovery
+    → Service Enumeration
+    → Login Request Mapping
+    → Blind SQL Injection
+    → Credential Extraction
+    → Authenticated SSH Access
+    → Restricted-Shell Escape
+    → MySQL Misconfiguration
+    → Root-Level Command Execution
+    → Effective Root Shell
+```
+
+The project includes a recruiter-facing assessment presentation, detailed vulnerability findings, sanitized technical evidence, root-cause analysis, documented business impact, prioritized remediation, and post-remediation validation requirements.
+
+---
+
+### ✅ Additional Completed Project
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🔎 [**Windows Authentication Triage in SIEM**](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM) | Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL. | **Complete** |
+
+---
+
+### 🚧 Projects in Development
+
+| Project | Intended Outcome | Status |
+|--------|------------------|--------|
+| 🛡️ [**Entra Sign-In & Conditional Access Investigation**](https://github.com/luicep/entra-signin-conditional-access-investigation) | Investigate identity activity using sign-in logs, Conditional Access results, MFA context, user and device evidence, and audit logs. | Building |
+| 🖥️ [**Endpoint Triage with Sysinternals & Sysmon**](https://github.com/luicep/endpoint-triage-sysinternals-sysmon) | Analyze process behavior, parent-child relationships, autoruns, suspicious paths, persistence indicators, and Sysmon telemetry. | Building |
+| 👤 [**Microsoft 365 User Lifecycle & Access Review**](https://github.com/luicep/m365-user-lifecycle-access-review) | Document onboarding, licensing, group membership, password reset, offboarding, access review, and audit evidence. | Building |
+| 💻 [**Intune Enrollment & Compliance Troubleshooting**](https://github.com/luicep/intune-device-enrollment-compliance) | Investigate Windows enrollment, user-device assignment, join status, compliance failures, root cause, and remediation validation. | Building |
+| 📧 [**Phishing Mailbox Triage & Message Trace**](https://github.com/luicep/m365-phishing-mailbox-triage) | Investigate suspicious email using message trace, headers, SPF/DKIM/DMARC results, recipient scope, and analyst disposition. | Building |
+
+> 💡 *Portfolio priority: completed, evidence-backed projects that demonstrate investigation, technical validation, root-cause analysis, remediation planning, and clear security communication.*
+
+<div align="center">
 
 [![View All Repositories](https://img.shields.io/badge/🗂️_View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luicep?tab=repositories)
+
+</div>
 
 ## 🎯 Current Focus
 
 ```bash
 $ cat current_focus.txt
 
-[1] SIEM authentication triage
-    - Windows Event ID 4625 / 4740
-    - failed logon and account lockout review
-    - source IP, workstation, user, and logon type analysis
-    - SPL timelines, detection logic, and escalation notes
+[1] End-to-end SOC investigation
+    - alert validation and supporting-evidence review
+    - incident timeline development and affected-asset scoping
+    - containment, escalation, and final analyst disposition
+    - technical findings and executive incident summaries
 
-[2] Microsoft identity investigation
-    - Entra sign-in log review
-    - Conditional Access results
-    - MFA and authentication context
-    - user, device, location, app, and audit-log pivots
+[2] Vulnerability management and remediation validation
+    - asset and attack-surface identification
+    - technical validation and false-positive review
+    - risk-based prioritization and remediation tracking
+    - rescanning, retesting, and closure verification
 
-[3] Endpoint investigation
-    - Sysinternals process review
-    - Sysmon telemetry
-    - parent-child process analysis
-    - autoruns, startup entries, and persistence indicators
+[3] Identity and Active Directory security
+    - authentication and account-activity investigation
+    - privilege, group membership, and access-path analysis
+    - lateral-movement and identity-abuse detection
+    - Entra sign-in, Conditional Access, and audit-log review
 
-[4] IAM and Microsoft 365 operations
-    - onboarding and offboarding workflows
-    - license and group assignment
-    - password reset and access review
-    - audit evidence and ticket-ready documentation
+[4] Endpoint investigation and detection engineering
+    - process-tree and parent-child relationship analysis
+    - Sysmon and Sysinternals evidence review
+    - startup, persistence, and suspicious-path investigation
+    - SPL detection logic and telemetry validation
 
-[5] Intune endpoint support
-    - Windows device enrollment
-    - user-device assignment
-    - compliance state troubleshooting
-    - join status, root cause, and remediation validation
-
-[6] Threat detection and email triage
-    - message trace review
-    - email header analysis
-    - SPF, DKIM, and DMARC validation
-    - recipient scope, final disposition, and user communication
+[5] Security automation and analyst reporting
+    - PowerShell and Python evidence-collection workflows
+    - repeatable log enrichment and investigation support
+    - ticket-ready documentation and remediation notes
+    - evidence-driven communication for technical and business audiences
 ```
 
 
@@ -146,6 +197,7 @@ $ cat current_focus.txt
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=caae7b)](https://github.com/luicep)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=caae7b)](https://www.linkedin.com/in/luis-cepeda1/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=caae7b)](mailto:Luiscepeda44@hotmail.com)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:caae7b,100:0D1117&height=95&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
