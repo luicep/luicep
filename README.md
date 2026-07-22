@@ -29,16 +29,16 @@ const luisCepeda = {
                  ],
                   CERTIFICATIONS: {
                 in Progress: [     
-            "CompTIA Security+",
-          ],  
-        OBTAINED: [
-       "CompTIA CySA+ce",
+               "CompTIA Security+",
+           ],  
+         OBTAINED: [
+        "CompTIA CySA+ce",
       "Google Cybersecurity Professional Certificate",
     "Google IT Support Professional Certificate",
   ],
 },
  EDGE:
-      edge: 340+ hours of cybersecurity training, labs, and project work focused on SOC, IAM, and IT support readiness,
+      edge: 440+ hours of cybersecurity training, labs, and project work focused on SOC, IAM, and IT support readiness,
 
   openToWork: true,
 };
@@ -79,32 +79,44 @@ const luisCepeda = {
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" width="38%" valign="middle">
 
 <a href="https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf"><img src="https://img.shields.io/badge/View-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View assessment presentation" /></a>
-
-<br/><br/>
-
+&nbsp;
 <a href="https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md"><img src="https://img.shields.io/badge/View-Evidence-0D1117?style=for-the-badge&logo=github&logoColor=caae7b" alt="View technical evidence" /></a>
 
 <br/><br/>
 
+<a href="https://github.com/luicep/kioptrix4/blob/main/findings/ASSESSMENT_REGISTER.md"><img src="https://img.shields.io/badge/Review-Assessment_Register-0078D4?style=for-the-badge&logo=markdown&logoColor=white" alt="Review complete assessment register" /></a>
+&nbsp;
 <img src="https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Project complete" />
 
 </td>
 
-<td align="center" width="67%" valign="middle">
+<td align="center" width="62%" valign="middle">
 
-### Assessment Path
+### Assessment Coverage
 
-<kbd>Discovery</kbd> → <kbd>Enumeration</kbd> → <kbd>SQL Injection</kbd> → <kbd>Credentials</kbd> → <kbd>SSH Access</kbd>
+<img src="https://img.shields.io/badge/Assessment_Items-30-0b2b4c?style=flat-square" alt="Thirty assessment items" />
+&nbsp;
+<img src="https://img.shields.io/badge/Confirmed-17-238636?style=flat-square" alt="Seventeen confirmed findings and observations" />
+&nbsp;
+<img src="https://img.shields.io/badge/Potential_CVEs-13-6e7681?style=flat-square" alt="Thirteen potential CVE matches" />
+&nbsp;
+<img src="https://img.shields.io/badge/Deep_Dives-2-caae7b?style=flat-square" alt="Two detailed findings presented" />
 
 <br/><br/>
 
-<kbd>Shell Escape</kbd> → <kbd>MySQL Escalation</kbd> → <kbd>Root Execution</kbd> → <kbd>Effective Root</kbd>
+<img src="https://img.shields.io/badge/Verified_Impact-Effective_Linux_Root-d93025?style=for-the-badge&logo=linux&logoColor=white" alt="Effective Linux root access verified" />
+
+<br/><br/>
+
+<sub>
+Confirmed findings, security observations, and researched CVE candidates are separated by validation status in the complete register.
+</sub>
 
 </td>
 
