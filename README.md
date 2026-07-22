@@ -84,15 +84,31 @@ const luisCepeda = {
 
 <td align="center" width="38%" valign="middle">
 
+<table width="100%">
+<tr>
+
+<td align="center" width="50%">
 <a href="https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf"><img src="https://img.shields.io/badge/View-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View assessment presentation" /></a>
-&nbsp;
+</td>
+
+<td align="center" width="50%">
 <a href="https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md"><img src="https://img.shields.io/badge/View-Evidence-0D1117?style=for-the-badge&logo=github&logoColor=caae7b" alt="View technical evidence" /></a>
+</td>
 
-<br/><br/>
+</tr>
 
-<a href="https://github.com/luicep/kioptrix4/blob/main/findings/ASSESSMENT_REGISTER.md"><img src="https://img.shields.io/badge/Review-Assessment_Register-0078D4?style=for-the-badge&logo=markdown&logoColor=white" alt="Review complete assessment register" /></a>
-&nbsp;
+<tr>
+
+<td align="center" width="50%">
+<a href="https://github.com/luicep/kioptrix4/blob/main/findings/ASSESSMENT_REGISTER.md"><img src="https://img.shields.io/badge/Review-Register-0078D4?style=for-the-badge&logo=markdown&logoColor=white" alt="Review complete assessment register" /></a>
+</td>
+
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Project complete" />
+</td>
+
+</tr>
+</table>
 
 </td>
 
@@ -123,9 +139,7 @@ Confirmed findings, security observations, and researched CVE candidates are sep
 </tr>
 </table>
 
----
-
-### ✅ Completed Security Operations Project
+✅ Completed Technical Casework
 
 <table>
 <tr>
