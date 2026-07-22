@@ -48,13 +48,18 @@ const luisCepeda = {
 
 <div align="center">
 
-![Splunk Auth Triage](https://img.shields.io/badge/Splunk_Auth_Triage-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
-![Windows Event Viewer](https://img.shields.io/badge/Windows_Event_Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Account Lockout Review](https://img.shields.io/badge/Account_Lockout_Review-0D1117?style=for-the-badge&logo=microsoft&logoColor=00FF41)
-![SPL Detection Logic](https://img.shields.io/badge/SPL_Detection_Logic-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
+![Splunk Authentication Triage](https://img.shields.io/badge/Splunk_Authentication_Triage-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
+![Windows Security Log Analysis](https://img.shields.io/badge/Windows_Security_Log_Analysis-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![SPL Querying](https://img.shields.io/badge/SPL_Querying_%26_Detection_Logic-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
+![SOC Documentation](https://img.shields.io/badge/SOC_Investigation_Documentation-0D1117?style=for-the-badge&logo=markdown&logoColor=00FF41)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK_Mapping-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
 
-![Get-WinEvent](https://img.shields.io/badge/Get--WinEvent-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
-![Ticket Documentation](https://img.shields.io/badge/Ticket_Documentation-0D1117?style=for-the-badge&logo=jira&logoColor=00FF41)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment_%26_Validation-0D1117?style=for-the-badge)
+![Network Security Assessment](https://img.shields.io/badge/Network_Security_Assessment-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Web Application Security](https://img.shields.io/badge/Web_Application_Security_Assessment-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF41)
+![Root Cause Analysis](https://img.shields.io/badge/Security_Root_Cause_Analysis-0078D4?style=for-the-badge)
+![Remediation Planning](https://img.shields.io/badge/Risk--Based_Remediation_Planning-0D1117?style=for-the-badge)
+![Security Reporting](https://img.shields.io/badge/Technical_%26_Executive_Security_Reporting-0078D4?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -72,42 +77,85 @@ const luisCepeda = {
   >
 </a>
 
-<br/><br/>
-
-[![View Presentation](https://img.shields.io/badge/View-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf)
-[![View Evidence](https://img.shields.io/badge/View-Evidence-0D1117?style=for-the-badge&logo=github&logoColor=caae7b)](https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md)
-![Complete](https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-<br/><br/>
-
-<sub>
-<strong>Assessment Path</strong><br/>
-Discovery → Enumeration → SQL Injection → Credential Access → SSH Access<br/>
-Shell Escape → MySQL Escalation → Root-Level Execution → Effective Root
-</sub>
-
 </div>
-
----
-
-### ✅ Completed Security Operations Project
 
 <table>
 <tr>
-<td align="center" width="34%">
+<td align="center" width="38%" valign="middle">
 
-### 🔎 [Windows Authentication Triage in SIEM](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+<a href="https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf">
+  <img
+    src="https://img.shields.io/badge/View-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+    alt="View assessment presentation"
+  >
+</a>
 
-[![Complete](https://img.shields.io/badge/Status-Complete-238636?style=flat-square)](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+<a href="https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md">
+  <img
+    src="https://img.shields.io/badge/View-Evidence-0D1117?style=for-the-badge&logo=github&logoColor=caae7b"
+    alt="View technical evidence"
+  >
+</a>
+
+<img
+  src="https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white"
+  alt="Project complete"
+>
 
 </td>
-<td width="66%">
+<td align="center" width="62%" valign="middle">
 
-Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL.
+<strong>Assessment Path</strong>
 
 <br/>
 
-`Event IDs 4625 & 4740` · `Account Lockouts` · `Source Analysis` · `SPL Timelines` · `Escalation Notes`
+<sub>
+Discovery → Enumeration → SQL Injection → Credential Access → SSH Access
+</sub>
+
+<br/>
+
+<sub>
+Shell Escape → MySQL Escalation → Root Execution → Effective Root
+</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### ✅ Completed SOC Investigation
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🔎 [Windows Authentication Triage in SIEM](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+
+SOC-style authentication investigation using **Splunk BOTS v3** and Windows Security Event IDs `4624`, `4625`, and `4740`.
+
+The investigation reviewed **427 successful logons and three failed logons** across the available Windows authentication data. Analysis of account activity, hosts, logon types, volume, and timing found no confirmed brute-force, password-spray, or account-lockout pattern.
+
+**Analyst disposition:** Low-volume authentication failures documented for monitoring, with escalation criteria defined for higher-volume, multi-user, lockout, or failure-followed-by-success activity.
+
+<br/>
+
+<a href="https://github.com/luicep/Windows-Authentication-Triage-in-SIEM">
+  <img
+    src="https://img.shields.io/badge/View-SOC_Investigation-0078D4?style=for-the-badge&logo=splunk&logoColor=white"
+    alt="View SOC investigation"
+  >
+</a>
+
+<img
+  src="https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white"
+  alt="Project complete"
+>
+
+<br/><br/>
+
+`Splunk BOTS v3` · `Windows Security Logs` · `SPL Queries` · `Authentication Triage` · `Analyst Decision` · `SOC Ticket` · `Escalation Criteria`
 
 </td>
 </tr>
