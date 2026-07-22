@@ -5,6 +5,7 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=900&color=f5d88b&center=true&vCenter=true&width=900&lines=SIEM+%7C+Authentication+Triage+%7C+Endpoint+Investigation;Identity+Operations+%7C+Endpoint+Operations+%7C+Threat+Investigation" alt="Typing SVG" />
+
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=luicep&color=caae7b&style=flat-square&label=Profile+Views)](https://github.com/luicep)
@@ -73,8 +74,6 @@ const luisCepeda = {
 
 ## 🏆 Featured Projects
 
-### 🌟 Flagship Project
-
 <div align="center">
 
 <a href="https://github.com/luicep/kioptrix4">
@@ -85,47 +84,51 @@ const luisCepeda = {
   >
 </a>
 
-### [Kioptrix 4 Vulnerability Assessment](https://github.com/luicep/kioptrix4)
+<br/><br/>
 
-**Authorized isolated-lab assessment documenting a verified attack path from network discovery to effective Linux root access.**
-
-[![View Presentation](https://img.shields.io/badge/View_Assessment-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf)
+[![View Assessment Presentation](https://img.shields.io/badge/View_Assessment-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf)
 [![Verify Evidence](https://img.shields.io/badge/Verify_Evidence-E01--E13-0D1117?style=for-the-badge&logo=github&logoColor=caae7b)](https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md)
-[![Review Findings](https://img.shields.io/badge/Review_Findings-K4--001_%7C_K4--002-0D1117?style=for-the-badge&logo=markdown&logoColor=caae7b)](https://github.com/luicep/kioptrix4/tree/main/findings)
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Complete-238636?style=flat-square)
-![Critical Findings](https://img.shields.io/badge/Critical_Findings-2-d93025?style=flat-square)
-![Evidence](https://img.shields.io/badge/Evidence-E01--E13-0b2b4c?style=flat-square)
-![Final Impact](https://img.shields.io/badge/Final_Impact-Effective_Root-d93025?style=flat-square)
+![Status Complete](https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
-#### Verified Assessment Chain
+### Verified Assessment Chain
 
-```text
-Network Discovery
-    → Service Enumeration
-    → Login Request Mapping
-    → Blind SQL Injection
-    → Credential Extraction
-    → Authenticated SSH Access
-    → Restricted-Shell Escape
-    → MySQL Misconfiguration
-    → Root-Level Command Execution
-    → Effective Root Shell
-```
-
-The project includes a recruiter-facing assessment presentation, detailed vulnerability findings, sanitized technical evidence, root-cause analysis, documented business impact, prioritized remediation, and post-remediation validation requirements.
+<p align="center">
+  <code>Discovery → Service Enumeration → Login Mapping → Blind SQL Injection → Credential Extraction → SSH Access</code>
+  <br/>
+  <code>Shell Escape → MySQL Misconfiguration → Root-Level Command Execution → Effective Root Shell</code>
+</p>
 
 ---
 
 ### ✅ Additional Completed Project
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🔎 [**Windows Authentication Triage in SIEM**](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM) | Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL. | **Complete** |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="850">
+
+### 🔎 [Windows Authentication Triage in SIEM](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+
+Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL.
+
+<br/>
+
+[![Status](https://img.shields.io/badge/Status-Complete-238636?style=flat-square)](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+[![Focus](https://img.shields.io/badge/Focus-SOC_Authentication_Triage-0D1117?style=flat-square&logo=splunk&logoColor=caae7b)](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+[![Tools](https://img.shields.io/badge/Tools-Splunk_%7C_PowerShell_%7C_SPL-0078D4?style=flat-square)](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+
+<br/>
+
+**Windows Event IDs `4625` and `4740` · Account-lockout review · Source analysis · Detection logic · Escalation documentation**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -140,12 +143,6 @@ The project includes a recruiter-facing assessment presentation, detailed vulner
 | 📧 [**Phishing Mailbox Triage & Message Trace**](https://github.com/luicep/m365-phishing-mailbox-triage) | Investigate suspicious email using message trace, headers, SPF/DKIM/DMARC results, recipient scope, and analyst disposition. | Building |
 
 > 💡 *Portfolio priority: completed, evidence-backed projects that demonstrate investigation, technical validation, root-cause analysis, remediation planning, and clear security communication.*
-
-<div align="center">
-
-[![View All Repositories](https://img.shields.io/badge/🗂️_View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luicep?tab=repositories)
-
-</div>
 
 ## 🎯 Current Focus
 
@@ -182,7 +179,6 @@ $ cat current_focus.txt
     - ticket-ready documentation and remediation notes
     - evidence-driven communication for technical and business audiences
 ```
-
 
 <div align="center">
 
