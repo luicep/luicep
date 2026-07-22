@@ -79,10 +79,12 @@ const luisCepeda = {
 
 </div>
 
-<table width="100%">
+<div align="center">
+
+<table width="95%" align="center">
 <tr>
 
-<td align="center" width="38%" valign="middle">
+<td align="center" width="44%" valign="middle">
 
 <table width="100%">
 <tr>
@@ -114,7 +116,7 @@ const luisCepeda = {
 
 <td align="center" width="56%" valign="middle">
 
-### Assessment Coverage
+<h3 align="center">Assessment Coverage</h3>
 
 <img src="https://img.shields.io/badge/Assessment_Items-30-0b2b4c?style=flat-square" alt="Thirty assessment items" />
 &nbsp;
@@ -150,7 +152,9 @@ Validation status is separated in the complete assessment register.
 </tr>
 </table>
 
-✅ Completed Technical Casework
+</div>
+
+### ✅ Completed Technical Casework
 
 <table>
 <tr>
