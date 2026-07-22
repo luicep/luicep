@@ -20,7 +20,6 @@
 const luisCepeda = {
     TRAINING:
       "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | April, 2026 - Present",
-
         FOCUS: [
           "SIEM authentication triage",
             "Microsoft identity investigation",
