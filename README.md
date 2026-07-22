@@ -25,15 +25,18 @@ const luisCepeda = {
             "Microsoft identity investigation",
               "Endpoint and device support",
                 "Incident triage",
-                 ],
-                  CERTIFICATIONS: {
-                in Progress: [     
-               "CompTIA Security+",
-           ],  
-         OBTAINED: [
-        "CompTIA CySA+ce",
-      "Google Cybersecurity Professional Certificate",
-    "Google IT Support Professional Certificate",
+                  ],
+
+                     CERTIFICATIONS: {
+                       OBTAINED: [
+                        "CompTIA CySA+ce",
+                       "Google Cybersecurity Professional Certificate",
+                      "Google IT Support Professional Certificate",
+
+                  ],
+                in Progress: [
+              "CCNA",
+           "Pentest+",
   ],
 },
  EDGE:
