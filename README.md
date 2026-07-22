@@ -112,7 +112,7 @@ const luisCepeda = {
 
 </td>
 
-<td align="center" width="62%" valign="middle">
+<td align="center" width="56%" valign="middle">
 
 ### Assessment Coverage
 
@@ -126,12 +126,23 @@ const luisCepeda = {
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Critical-11-d93025?style=flat-square" alt="Eleven critical assessment items" />
+&nbsp;
+<img src="https://img.shields.io/badge/High-5-f57c00?style=flat-square" alt="Five high severity assessment items" />
+&nbsp;
+<img src="https://img.shields.io/badge/Medium-11-c99700?style=flat-square" alt="Eleven medium severity assessment items" />
+&nbsp;
+<img src="https://img.shields.io/badge/Low_%2F_Observation-3-238636?style=flat-square" alt="Three low severity or observational items" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Verified_Impact-Effective_Linux_Root-d93025?style=for-the-badge&logo=linux&logoColor=white" alt="Effective Linux root access verified" />
 
 <br/><br/>
 
 <sub>
-Confirmed findings, security observations, and researched CVE candidates are separated by validation status in the complete register.
+Severity totals include confirmed items and potential CVE matches.<br/>
+Validation status is separated in the complete assessment register.
 </sub>
 
 </td>
