@@ -74,90 +74,76 @@ const luisCepeda = {
     src="https://raw.githubusercontent.com/luicep/kioptrix4/main/assets/previews/01-cover.png"
     alt="Kioptrix 4 Vulnerability Assessment"
     width="95%"
-  >
+  />
 </a>
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="38%" valign="middle">
 
-<a href="https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf">
-  <img
-    src="https://img.shields.io/badge/View-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-    alt="View assessment presentation"
-  >
-</a>
+<td align="center" width="33%" valign="middle">
 
-<a href="https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md">
-  <img
-    src="https://img.shields.io/badge/View-Evidence-0D1117?style=for-the-badge&logo=github&logoColor=caae7b"
-    alt="View technical evidence"
-  >
-</a>
+<a href="https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf"><img src="https://img.shields.io/badge/View-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View assessment presentation" /></a>
 
-<img
-  src="https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white"
-  alt="Project complete"
->
+<br/><br/>
+
+<a href="https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md"><img src="https://img.shields.io/badge/View-Evidence-0D1117?style=for-the-badge&logo=github&logoColor=caae7b" alt="View technical evidence" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Project complete" />
 
 </td>
-<td align="center" width="62%" valign="middle">
 
-<strong>Assessment Path</strong>
+<td align="center" width="67%" valign="middle">
 
-<br/>
+### Assessment Path
 
-<sub>
-Discovery → Enumeration → SQL Injection → Credential Access → SSH Access
-</sub>
+<kbd>Discovery</kbd> → <kbd>Enumeration</kbd> → <kbd>SQL Injection</kbd> → <kbd>Credentials</kbd> → <kbd>SSH Access</kbd>
 
-<br/>
+<br/><br/>
 
-<sub>
-Shell Escape → MySQL Escalation → Root Execution → Effective Root
-</sub>
+<kbd>Shell Escape</kbd> → <kbd>MySQL Escalation</kbd> → <kbd>Root Execution</kbd> → <kbd>Effective Root</kbd>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### ✅ Completed SOC Investigation
+### ✅ Completed Security Operations Project
 
 <table>
 <tr>
-<td width="100%">
+
+<td align="center" width="33%" valign="middle">
 
 #### 🔎 [Windows Authentication Triage in SIEM](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
 
-SOC-style authentication investigation using **Splunk BOTS v3** and Windows Security Event IDs `4624`, `4625`, and `4740`.
-
-The investigation reviewed **427 successful logons and three failed logons** across the available Windows authentication data. Analysis of account activity, hosts, logon types, volume, and timing found no confirmed brute-force, password-spray, or account-lockout pattern.
-
-**Analyst disposition:** Low-volume authentication failures documented for monitoring, with escalation criteria defined for higher-volume, multi-user, lockout, or failure-followed-by-success activity.
-
-<br/>
-
-<a href="https://github.com/luicep/Windows-Authentication-Triage-in-SIEM">
-  <img
-    src="https://img.shields.io/badge/View-SOC_Investigation-0078D4?style=for-the-badge&logo=splunk&logoColor=white"
-    alt="View SOC investigation"
-  >
-</a>
-
-<img
-  src="https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white"
-  alt="Project complete"
->
+<a href="https://github.com/luicep/Windows-Authentication-Triage-in-SIEM"><img src="https://img.shields.io/badge/View-Project-0078D4?style=for-the-badge&logo=splunk&logoColor=white" alt="View SOC project" /></a>
 
 <br/><br/>
 
-`Splunk BOTS v3` · `Windows Security Logs` · `SPL Queries` · `Authentication Triage` · `Analyst Decision` · `SOC Ticket` · `Escalation Criteria`
+<img src="https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Project complete" />
 
 </td>
+
+<td width="67%" valign="middle">
+
+SOC-style authentication triage using **Splunk BOTS v3** and Windows Security logs.
+
+The investigation reviewed **427 successful logons and three failed logons** across account, host, logon type, volume, and timing. No brute-force, password-spray, or account-lockout pattern was confirmed.
+
+A defensible analyst disposition was documented with monitoring recommendations, a SOC ticket, and clear escalation criteria.
+
+<br/>
+
+`Splunk` · `Windows Security Logs` · `SPL Queries` · `Authentication Triage` · `Analyst Decision` · `SOC Ticket` · `Escalation Criteria`
+
+</td>
+
 </tr>
 </table>
 
