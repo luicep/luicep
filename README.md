@@ -49,24 +49,12 @@ const luisCepeda = {
 <div align="center">
 
 ![Splunk Auth Triage](https://img.shields.io/badge/Splunk_Auth_Triage-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
-![Windows Event viewer](https://img.shields.io/badge/Windows_Event_viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Event Viewer](https://img.shields.io/badge/Windows_Event_Viewer-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Account Lockout Review](https://img.shields.io/badge/Account_Lockout_Review-0D1117?style=for-the-badge&logo=microsoft&logoColor=00FF41)
 ![SPL Detection Logic](https://img.shields.io/badge/SPL_Detection_Logic-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
 
-![M365 User Lifecycle](https://img.shields.io/badge/M365_User_Lifecycle-0D1117?style=for-the-badge&logo=microsoft365&logoColor=00FF41)
-![Entra ID Basics](https://img.shields.io/badge/Entra_ID_Basics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Intune Device Lifecycle](https://img.shields.io/badge/Intune_Device_Lifecycle-0D1117?style=for-the-badge&logo=microsoftintune&logoColor=00FF41)
-![Endpoint Support](https://img.shields.io/badge/Endpoint_Support-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-![Wireshark DNS HTTP/S](https://img.shields.io/badge/Wireshark_DNS_HTTP%2FS-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![PCAP Investigation](https://img.shields.io/badge/PCAP_Investigation-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Sysinternals Triage](https://img.shields.io/badge/Sysinternals_Triage-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Persistence Review](https://img.shields.io/badge/Persistence_Review-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=00FF41)
-
-![PowerShell Automation](https://img.shields.io/badge/PowerShell_Automation-012456?style=for-the-badge&logo=powershell&logoColor=white)
 ![Get-WinEvent](https://img.shields.io/badge/Get--WinEvent-0D1117?style=for-the-badge&logo=powershell&logoColor=00FF41)
 ![Ticket Documentation](https://img.shields.io/badge/Ticket_Documentation-0D1117?style=for-the-badge&logo=jira&logoColor=00FF41)
-![MITRE ATT&CK Mapping](https://img.shields.io/badge/MITRE_ATT%26CK_Mapping-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
 
 </div>
 
@@ -86,49 +74,44 @@ const luisCepeda = {
 
 <br/><br/>
 
-[![View Assessment Presentation](https://img.shields.io/badge/View_Assessment-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf)
-[![Verify Evidence](https://img.shields.io/badge/Verify_Evidence-E01--E13-0D1117?style=for-the-badge&logo=github&logoColor=caae7b)](https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md)
-![Status Complete](https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white)
+[![View Presentation](https://img.shields.io/badge/View-Presentation-d93025?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/luicep/kioptrix4/blob/main/presentation/Kioptrix4-Public-Assessment.pdf)
+[![View Evidence](https://img.shields.io/badge/View-Evidence-0D1117?style=for-the-badge&logo=github&logoColor=caae7b)](https://github.com/luicep/kioptrix4/blob/main/evidence/EVIDENCE_INDEX.md)
+![Complete](https://img.shields.io/badge/Status-Complete-238636?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+<br/><br/>
+
+<sub>
+<strong>Assessment Path</strong><br/>
+Discovery → Enumeration → SQL Injection → Credential Access → SSH Access<br/>
+Shell Escape → MySQL Escalation → Root-Level Execution → Effective Root
+</sub>
 
 </div>
 
-### Verified Assessment Chain
-
-<p align="center">
-  <code>Discovery → Service Enumeration → Login Mapping → Blind SQL Injection → Credential Extraction → SSH Access</code>
-  <br/>
-  <code>Shell Escape → MySQL Misconfiguration → Root-Level Command Execution → Effective Root Shell</code>
-</p>
-
 ---
 
-### ✅ Additional Completed Project
-
-<div align="center">
+### ✅ Completed Security Operations Project
 
 <table>
 <tr>
-<td align="center" width="850">
+<td align="center" width="34%">
 
 ### 🔎 [Windows Authentication Triage in SIEM](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+
+[![Complete](https://img.shields.io/badge/Status-Complete-238636?style=flat-square)](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
+
+</td>
+<td width="66%">
 
 Investigates failed logons, account lockouts, source patterns, logon types, and password-spray indicators using Windows Event Logs, PowerShell, Splunk, and SPL.
 
 <br/>
 
-[![Status](https://img.shields.io/badge/Status-Complete-238636?style=flat-square)](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
-[![Focus](https://img.shields.io/badge/Focus-SOC_Authentication_Triage-0D1117?style=flat-square&logo=splunk&logoColor=caae7b)](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
-[![Tools](https://img.shields.io/badge/Tools-Splunk_%7C_PowerShell_%7C_SPL-0078D4?style=flat-square)](https://github.com/luicep/Windows-Authentication-Triage-in-SIEM)
-
-<br/>
-
-**Windows Event IDs `4625` and `4740` · Account-lockout review · Source analysis · Detection logic · Escalation documentation**
+`Event IDs 4625 & 4740` · `Account Lockouts` · `Source Analysis` · `SPL Timelines` · `Escalation Notes`
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
