@@ -19,9 +19,10 @@
 ```typescript
 const luisCepeda = {
     TRAINING:
-      "Per Scholas Cybersecurity Training - CompTIA CySA+ | April, 2026 - July 2026", ✅
-       "Npower Network and Systems Administration Apprenticeship | September, 14 - Decemer 18",
-        FOCUS: [
+     "Npower Network and Systems Administration Apprenticeship | September, 14 - Decemer 18",
+      "Per Scholas Cybersecurity Training - CompTIA CySA+ | April, 2026 - July 2026", 🗹
+     
+         FOCUS: [
           "SIEM authentication triage",
             "Microsoft identity investigation",
               "Endpoint and device support",
@@ -30,15 +31,19 @@ const luisCepeda = {
 
                      CERTIFICATIONS: {
                        OBTAINED: [
-                        "CompTIA CySA+ce", ✅
-                         "Splunk Core Certified User", ✅
-                       "Google Cybersecurity Professional Certificate",✅
-                      "Google IT Support Professional Certificate",✅
+                        "CompTIA CySA+ce", 🗹
+                         "Splunk Core Certified User", 🗹
+                       "Google Cybersecurity Professional Certificate",🗹
+                      "Google IT Support Professional Certificate", 🗹
 
                   ],
-                in Progress: [
-              "CCNA",
-           "Pentest+",
+                 in Progress: [
+                "Networking +" ⏳
+              "Pentest+", ⏳
+            "Security+" ⏳
+          "CCNA", ⏳
+          
+           
   ],
 },
  EDGE:
