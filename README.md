@@ -19,8 +19,8 @@
 ```typescript
 const luisCepeda = {
     TRAINING:
-      "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | April, 2026 - July 2026",
-       "
+      "Per Scholas Cybersecurity Training - CompTIA CySA+ | April, 2026 - July 2026",
+       "Npower Network and Systems Administration Apprenticeship | September, 14 - Decemer 18",
         FOCUS: [
           "SIEM authentication triage",
             "Microsoft identity investigation",
