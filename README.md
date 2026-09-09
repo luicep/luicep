@@ -38,10 +38,10 @@ const luisCepeda = {
 
                   ],
                  in Progress: [
-                "Networking +" ⏳
-              "Pentest+", ⏳
-           "Security+", ⏳
-          "CCNA", ⏳
+                "Networking+",⏳
+              "Pentest+",⏳
+            "Security+",⏳
+          "CCNA",⏳
           
            
   ],
