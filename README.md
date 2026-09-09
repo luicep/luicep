@@ -31,16 +31,16 @@ const luisCepeda = {
 
                      CERTIFICATIONS: {
                        OBTAINED: [
-                        "CompTIA CySA+ce", 🗹
-                         "Splunk Core Certified User", 🗹
-                       "Google Cybersecurity Professional Certificate",🗹
-                      "Google IT Support Professional Certificate", 🗹
+                        "CompTIA CySA+ce" 🗹
+                         "Splunk Core Certified User" 🗹
+                       "Google Cybersecurity Professional Certificate" 🗹
+                      "Google IT Support Professional Certificate"  🗹
 
                   ],
                  in Progress: [
                 "Networking +" ⏳
               "Pentest+", ⏳
-            "Security+" ⏳
+            "Security+", ⏳
           "CCNA", ⏳
           
            
