@@ -50,9 +50,13 @@ const luisCepeda = {
       edge: 440+ hours of cybersecurity training, labs, and project work focused on SOC, IAM, and IT support readiness,
 
   openToWork: true,
-🔗 **Verify:** [CySA+](https://www.credly.com/badges/bc904dcf-0ed5-47e9-a879-499320f2f4c8/public_url) · [Splunk Core](https://www.credly.com/badges/7bc31977-17ca-4e49-a420-c4be0f59b772) · [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/K3QRLJDQV6NT) · [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/R2RSD5G4K78L)
+
 };
 ```
+<div align="center">
+ 🔗 **Verify:** [CySA+](https://www.credly.com/badges/bc904dcf-0ed5-47e9-a879-499320f2f4c8/public_url) · [Splunk Core](https://www.credly.com/badges/7bc31977-17ca-4e49-a420-c4be0f59b772) · [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/K3QRLJDQV6NT) · [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/certificate/R2RSD5G4K78L)   
+</div>
+
 
 ## 🛠️ Technical Skills
 
