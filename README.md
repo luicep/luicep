@@ -41,9 +41,7 @@ const luisCepeda = {
                 "Networking+",
               "Security+",
             "Pentest+",
-          "CCNA",
-          
-           
+          "CCNA",                  
   ],
 },
  EDGE:
