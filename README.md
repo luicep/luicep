@@ -19,7 +19,8 @@
 ```typescript
 const luisCepeda = {
     TRAINING:
-      "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | April, 2026 - Present",
+      "Per Scholas Cybersecurity Apprenticeship - CompTIA CySA+ | April, 2026 - July 2026",
+       "
         FOCUS: [
           "SIEM authentication triage",
             "Microsoft identity investigation",
@@ -29,7 +30,8 @@ const luisCepeda = {
 
                      CERTIFICATIONS: {
                        OBTAINED: [
-                        "CompTIA CySA+ce",
+                        "CompTIA CySA+ce", 
+                         "Splunk Core Certified User", 
                        "Google Cybersecurity Professional Certificate",
                       "Google IT Support Professional Certificate",
 
